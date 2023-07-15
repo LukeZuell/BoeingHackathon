@@ -1,0 +1,146 @@
+/* External CSS style file */
+
+* {
+   box-sizing: border-box;
+}
+
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 10px;
+   height: 100%;
+   background: #ffffff;
+}
+
+
+.content {
+   background-color: #ffffff;
+   padding: 10px;
+}
+
+.container {
+   background-color: #ffffff;
+   padding: 10px;
+}
+
+/* Header (div) formatting */
+.header {
+   padding: 10px;
+   text-align: center;
+   background-color: #ffffff;
+   color: #000000;
+}
+
+
+
+.header h1 {
+   font-size: 50px;
+}
+
+
+.btn { 
+   font-size: 16px;
+   background-color: #5db9e0;
+   border-width: 1px;
+   border-color: #0080cb;
+}
+
+.btn:hover {
+   background-color: #4c7e80;
+}
+
+.btn:active,
+.btn:visited,
+.btn:focus {
+    background-color: #4c7e80;
+    border-color: #4c7e80;
+}
+
+.btn:not(:disabled):not(.disabled):active:focus,
+.btn:not(:disabled):not(.disabled).active:focus,
+.show>.btn.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem rgba(91, 194, 194, 0.5)
+}
+
+
+.btn-sm { 
+   font-size: 16px;
+   background-color: #a0615f;
+   border-width: 1px;
+   border-color: #905756;
+}
+
+.btn-sm:hover {
+   background-color: #905756;
+   border-color: #905756;
+}
+
+.btn-sm:active,
+.btn-sm:visited,
+.btn-sm:focus {
+    background-color: #905756;
+    border-color: #905756;
+}
+
+.btn-sm:not(:disabled):not(.disabled):active:focus,
+.btn-sm:not(:disabled):not(.disabled).active:focus,
+.show>.btn.dropdown-toggle:focus {
+    box-shadow: 0 0 0 .2rem #905756;
+}
+ 
+ .split {
+   height: 25%;
+   width: 50%;
+   position: fixed;
+   z-index: 1;
+   top: 170px;
+   overflow-x: hidden;
+   padding-top: 20px;
+ }
+ 
+ .left {
+   left: 0;
+   background-color: #ffffff;
+ }
+ 
+ .right {
+   right: 0;
+   background-color: #ffffff;
+ }
+ 
+ .centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+ }
+ 
+
+
+
+/* Make the logo have a rounded edge */
+img.top-image {
+   vertical-align: middle;
+}
+
+
+
+ 
+/* Style the footer */
+footer {
+   background-color: #5db9e0;
+   padding: 10px;
+   border: 5px solid #0080cb;
+   border-radius: 3px;          
+}
+
+
+
+
+
+
+
+
+
+
