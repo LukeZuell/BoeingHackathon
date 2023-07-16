@@ -5,7 +5,8 @@ This was a Hackaton for Semester 1 2022, working in a group to provide a visual 
    
 ### Dependencies
 
-slf4j-simple and sqlite-jdbc
+- slf4j-simple
+- sqlite-jdbc
 
 
 ### Setup
@@ -26,14 +27,14 @@ This project has been archived and is no longer supported.
 ## Authors
 
 Contributors names:
-Luke Zuell
-Mark Putter
-Gabriel Abi-Raad
-Josh Lam
+- Luke Zuell
+- Mark Putter
+- Gabriel Abi-Raad
+- Josh Lam
 
 Initial Contribute:
-Dr. Timothy Wiley
-Prof. Santha Sumanasekara
+- Dr. Timothy Wiley
+- Prof. Santha Sumanasekara
 
 
 
