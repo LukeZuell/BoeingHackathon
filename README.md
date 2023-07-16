@@ -27,10 +27,10 @@ This project has been archived and is no longer supported.
 ## Authors
 
 Contributors names:
-- Luke Zuell
-- Mark Putter
-- Gabriel Abi-Raad
-- Josh Lam
+- [Luke Zuell](https://github.com/LukeZuell)
+- [Mark Putter](https://github.com/Mark-Putter)
+- [Gabriel Abi-Raad](https://github.com/gabrielabiraad)
+- [Josh Lam](https://github.com/JoshLam168)
 
 Initial Contribute:
 - Dr. Timothy Wiley
