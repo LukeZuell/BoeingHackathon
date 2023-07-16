@@ -5,8 +5,7 @@ This was a Hackaton for Semester 1 2022, working in a group to provide a visual 
    
 ### Dependencies
 
-slf4j-simple (lightweight logging)
-sqlite-jdbc
+slf4j-simple and sqlite-jdbc
 
 
 ### Setup
