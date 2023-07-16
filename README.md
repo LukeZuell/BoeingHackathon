@@ -28,7 +28,7 @@ This project has been archived and is no longer supported.
 Contributors names:
 Luke Zuell
 Mark Putter
-Gabriel Abiraad
+Gabriel Abi-Raad
 Josh Lam
 
 Initial Contribute:
